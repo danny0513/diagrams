@@ -1,92 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T04:00:21.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5pEIKV7TPlI1FXEXxIOi" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T03:59:48.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="tVAtZ7d9wQdiPrXkmH3q" version="15.7.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1730" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="g6tmWJ46oufooJd1dS_3-54" value="卖家中心" style="swimlane;strokeColor=#36393d;fillColor=#cce5ff;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-54" value="卖家中心" style="swimlane;strokeColor=#36393d;fillColor=#cce5ff;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="20" width="620" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;entryX=0.461;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-101" target="g6tmWJ46oufooJd1dS_3-87">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;entryX=0.461;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-101" target="g6tmWJ46oufooJd1dS_3-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="346.29999999999995" y="525" as="sourcePoint" />
             <mxPoint x="346.43499999999995" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-77" value="&lt;span&gt;跳转到单点登录&lt;br&gt;http://10.7.39.168/user/#/loginS?redirectUrl=http://10.7.39.168/seller&amp;amp;bid=Y2TMJZX&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;align=center;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-54">
-          <mxGeometry x="220" y="340" width="280" height="60" as="geometry" />
+        <mxCell id="g6tmWJ46oufooJd1dS_3-77" value="跳转到单点登录&lt;br&gt;http://10.7.39.168/user/#/loginS?&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;redirectUrl=http://10.7.39.168/seller&lt;/font&gt;&lt;/b&gt;&amp;amp;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;bid=Y2TMJZX&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;align=center;" parent="g6tmWJ46oufooJd1dS_3-54" vertex="1">
+          <mxGeometry x="220" y="340" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-110" target="g6tmWJ46oufooJd1dS_3-93">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-110" target="g6tmWJ46oufooJd1dS_3-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-105" value="set(&#39;token&#39;, 123)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="g6tmWJ46oufooJd1dS_3-104">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-105" value="set(&#39;token&#39;, 123)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=default;" parent="g6tmWJ46oufooJd1dS_3-104" vertex="1" connectable="0">
           <mxGeometry x="0.3062" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-87" value="调用接口获取token" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;align=center;html=1;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-54">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-87" value="调用接口获取token" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;align=center;html=1;" parent="g6tmWJ46oufooJd1dS_3-54" vertex="1">
           <mxGeometry x="242.5" y="600" width="257.5" height="150" as="geometry">
             <mxRectangle x="232.5" y="520" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-88" value="&lt;span style=&quot;text-align: center&quot;&gt;URL: /user/ssoAuth/get/userMessage&lt;br&gt;&lt;/span&gt;METHOD: post&lt;br&gt;PARAMS: {&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;bid: Y2TMJZX，&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;code:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;8854512&lt;br&gt;}&lt;/span&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=default;fontColor=default;html=1;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-87">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-88" value="&lt;span style=&quot;text-align: center&quot;&gt;URL: /user/ssoAuth/get/userMessage&lt;br&gt;&lt;/span&gt;METHOD: post&lt;br&gt;PARAMS: {&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;bid: Y2TMJZX，&lt;br&gt;&lt;span&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;code:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;8854512&lt;/font&gt;&lt;/b&gt;&lt;br&gt;}&lt;/span&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=default;fontColor=default;html=1;" parent="g6tmWJ46oufooJd1dS_3-87" vertex="1">
           <mxGeometry y="30" width="257.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-110" value="RESPONSE： {accept_token: 123}" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=default;fontColor=default;html=1;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-87">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-110" value="RESPONSE： {accept_token: 123}" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=default;fontColor=default;html=1;" parent="g6tmWJ46oufooJd1dS_3-87" vertex="1">
           <mxGeometry y="120" width="257.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-93" value="cookie" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=default;align=center;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-54">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-93" value="cookie" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=default;align=center;" parent="g6tmWJ46oufooJd1dS_3-54" vertex="1">
           <mxGeometry x="120" y="190" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-101" value="卖家中心任意页面&lt;br&gt;获取URL中的code" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=default;strokeColor=#36393d;fillColor=#eeeeee;align=center;fontColor=default;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-54">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-101" value="卖家中心任意页面&lt;br&gt;获取URL中的&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;code&lt;/font&gt;&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=default;strokeColor=#36393d;fillColor=#eeeeee;align=center;fontColor=default;" parent="g6tmWJ46oufooJd1dS_3-54" vertex="1">
           <mxGeometry x="235.25" y="470" width="253.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-137" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-60" target="g6tmWJ46oufooJd1dS_3-136">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-137" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-60" target="g6tmWJ46oufooJd1dS_3-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-60" value="有无token" style="rhombus;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-54">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-60" value="有无token" style="rhombus;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;labelBackgroundColor=default;" parent="g6tmWJ46oufooJd1dS_3-54" vertex="1">
           <mxGeometry x="320" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-93" target="g6tmWJ46oufooJd1dS_3-60">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-93" target="g6tmWJ46oufooJd1dS_3-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-95" value="get(&#39;token&#39;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="g6tmWJ46oufooJd1dS_3-94">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-95" value="get(&#39;token&#39;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;labelBackgroundColor=default;" parent="g6tmWJ46oufooJd1dS_3-94" vertex="1" connectable="0">
           <mxGeometry x="-0.34" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-78" value="无" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-60" target="g6tmWJ46oufooJd1dS_3-77">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-78" value="无" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-60" target="g6tmWJ46oufooJd1dS_3-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-135" target="g6tmWJ46oufooJd1dS_3-60">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="g6tmWJ46oufooJd1dS_3-54" source="g6tmWJ46oufooJd1dS_3-135" target="g6tmWJ46oufooJd1dS_3-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-135" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;labelBorderColor=none;strokeColor=#36393d;fillColor=#ffcccc;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-54">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-135" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;labelBorderColor=none;strokeColor=#36393d;fillColor=#ffcccc;align=center;verticalAlign=middle;fontColor=default;" parent="g6tmWJ46oufooJd1dS_3-54" vertex="1">
           <mxGeometry x="320" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-136" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;labelBorderColor=none;strokeColor=#36393d;fillColor=#cdeb8b;align=center;verticalAlign=middle;fontColor=default;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-54">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-136" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;labelBorderColor=none;strokeColor=#36393d;fillColor=#cdeb8b;align=center;verticalAlign=middle;fontColor=default;" parent="g6tmWJ46oufooJd1dS_3-54" vertex="1">
           <mxGeometry x="500" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-56" value="单点登录" style="swimlane;strokeColor=#36393d;fillColor=#cce5ff;whiteSpace=wrap;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-56" value="单点登录" style="swimlane;strokeColor=#36393d;fillColor=#cce5ff;whiteSpace=wrap;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="730" y="20" width="310" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-81" value="登录成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="g6tmWJ46oufooJd1dS_3-56" source="g6tmWJ46oufooJd1dS_3-100" target="g6tmWJ46oufooJd1dS_3-80">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-81" value="登录成功&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;生成&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;code&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="g6tmWJ46oufooJd1dS_3-56" source="g6tmWJ46oufooJd1dS_3-100" target="g6tmWJ46oufooJd1dS_3-80" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-80" value="跳转回到卖家中心&lt;br&gt;&lt;span&gt;http://10.7.39.168/seller?code=8854512&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%26gt%3Bhttp%3A%2F%2F10.7.39.168%2Fseller%3Fcode%3D8854512%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontColor%3Ddefault%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%22565%22%20width%3D%22230%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;align=center;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-56">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-80" value="跳转回到卖家中心&lt;br&gt;http://10.7.39.168/seller?&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;code=8854512&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%26gt%3Bhttp%3A%2F%2F10.7.39.168%2Fseller%3Fcode%3D8854512%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontColor%3Ddefault%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%22565%22%20width%3D%22230%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;align=center;" parent="g6tmWJ46oufooJd1dS_3-56" vertex="1">
           <mxGeometry x="55" y="475" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-100" value="&lt;span style=&quot;&quot;&gt;登录界面&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;获取URL中的&lt;/span&gt;&lt;span&gt;redirectUrl和&lt;/span&gt;&lt;span&gt;bid生成code&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=default;strokeColor=#36393d;fillColor=#eeeeee;align=center;fontColor=default;" vertex="1" parent="g6tmWJ46oufooJd1dS_3-56">
-          <mxGeometry x="60" y="320" width="220" height="100" as="geometry" />
+        <mxCell id="g6tmWJ46oufooJd1dS_3-100" value="&lt;span&gt;登录界面&lt;/span&gt;&lt;br&gt;&lt;span&gt;获取URL中的&lt;/span&gt;&lt;span&gt;redirectUrl和&lt;/span&gt;&lt;span&gt;bid&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=default;strokeColor=#36393d;fillColor=#eeeeee;align=center;fontColor=default;" parent="g6tmWJ46oufooJd1dS_3-56" vertex="1">
+          <mxGeometry x="60" y="325" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g6tmWJ46oufooJd1dS_3-77" target="g6tmWJ46oufooJd1dS_3-100">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g6tmWJ46oufooJd1dS_3-77" target="g6tmWJ46oufooJd1dS_3-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="835" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6tmWJ46oufooJd1dS_3-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;entryX=0;entryY=0;entryDx=253.75;entryDy=30;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g6tmWJ46oufooJd1dS_3-80" target="g6tmWJ46oufooJd1dS_3-101">
+        <mxCell id="g6tmWJ46oufooJd1dS_3-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;entryX=0;entryY=0;entryDx=253.75;entryDy=30;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g6tmWJ46oufooJd1dS_3-80" target="g6tmWJ46oufooJd1dS_3-101" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="520" as="targetPoint" />
           </mxGeometry>
